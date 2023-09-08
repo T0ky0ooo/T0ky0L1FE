@@ -2,7 +2,7 @@
 
 ## Overview  
 
-Snippets of thoughts on life at Tokyo, Japan  
+**Snippets of thoughts on life at Tokyo, Japan**  
 
 *Start date*: February 16th, 2023  
 
