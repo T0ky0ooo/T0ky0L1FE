@@ -8,3 +8,4 @@
 
 *Reason*: Fulfilling what has been left abruptly since 2019
 
+![Tokyo Sakura](/docs/assets/css/Video5.jpg)
