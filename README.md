@@ -1,6 +1,4 @@
-# T0ky0L1FE 
-
-## Overview  
+# Overview  
 
 **Snippets of thoughts on life at Tokyo, Japan**  
 
