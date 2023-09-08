@@ -6,5 +6,5 @@
 
 *Start date*: February 16th, 2023  
 
-*Reason*: Fulfilled what was left abruptly in 2019
+*Reason*: Fulfilling what has been left abruptly since 2019
 
